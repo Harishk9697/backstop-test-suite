@@ -46,7 +46,7 @@
   "engineOptions": {
     "browser":"chromium",
     "args": ["--no-sandbox"],
-    "headless":false
+    "headless":true
   },
   "asyncCaptureLimit": 5,
   "asyncCompareLimit": 50,
